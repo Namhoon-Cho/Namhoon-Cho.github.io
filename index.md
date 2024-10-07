@@ -15,8 +15,10 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Who Am I?
+## Title
+##Who Am I?
 
+Body
 Namhoon Cho, Department of Artificial Intelligence.
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
